@@ -1,6 +1,8 @@
-Bulk Text Regex Utility
+![Image](https://github.com/user-attachments/assets/986a175a-ac1b-44df-bb97-f8e24ca9336b)
 
-Overview
+𝗕𝘂𝗹𝗸 𝗧𝗲𝘅𝘁 𝗥𝗲𝗴𝗲𝘅 𝗨𝘁𝗶𝗹𝗶𝘁𝘆
+
+#𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
 
 Bulk Text Regex Utility is a simple tool that allows users to:
 
@@ -12,7 +14,7 @@ Execute regex matching
 
 View match/unmatch status
 
-Features
+#𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 Load and manage multiple text snippets
 
@@ -24,7 +26,7 @@ Display match/unmatch results
 
 Installation
 
-Prerequisites
+#𝐏𝐫𝐞𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬
 
 Ensure you have the following installed:
 
@@ -69,10 +71,6 @@ View Results – The system will display whether the text matches or does not ma
 Contributing
 
 Feel free to fork this repository and submit pull requests for improvements.
-
-License
-
-This project is licensed under the MIT License.
 
 Contact
 
